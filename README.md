@@ -17,9 +17,6 @@ This project focuses on analyzing pizza sales data using SQL to uncover trends, 
 - Customer Preferences : Identified top-selling pizza types, sizes, and categories.
 - Category Performance : To identify the most popular and revenue-generating categories.
 
-## Dataset Structure
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 ## Tools and Technologies Database
 - Database: MySQL Workbench
 - Query Language: SQL
