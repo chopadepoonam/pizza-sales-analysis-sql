@@ -145,7 +145,3 @@ pizza store sales analysis.sql
 
 - GitHub: https://github.com/chopadepoonam
 - LinkedIn: https://www.linkedin.com/in/poonam-chopade-271212414/
-
----
-
-## ⭐ If you found this project helpful, consider giving it a Star!
